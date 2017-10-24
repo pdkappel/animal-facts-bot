@@ -45,6 +45,7 @@ You can see the bot in action at https://www.reddit.com/user/AnimalFactsBot/comm
 * capybara
 * chameleon
 * cheetah
+* chimpanzee
 * chipmunk
 * chinchilla
 * cobra
