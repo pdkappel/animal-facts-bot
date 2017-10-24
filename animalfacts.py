@@ -614,7 +614,14 @@ CHEETAH_FACTS = (
     'With their light body weight and blunt claws, cheetahs are not well designed to protect themselves or their prey. When a larger or more aggressive animal approaches a cheetah in the wild, it will give up its catch to avoid a fight.',
     'Cheetahs only need to drink once every three to four days.',
     )
-
+CHIMPANZEE_FACTS = (
+    'The DNA of chimpanzees and humans is 98.5% the same.',	
+    'Some groups of chimpanzees eat up to 200 different kinds of food, including fruit, leaves, flowers, seeds, bird eggs, insects and even other animals.',
+    'Female chimpanzees generally give birth to a single chimp (or occasionally twins) every five to six years.',	
+    'Some chimpanzees have even been able to learn basic human sign language.',
+    'When they are ill, chimpanzees will eat medicinal plants to heal themselves.',
+    'In the wild, chimpanzee lives 40-50 years.',	
+)
 CHIPMUNK_FACTS = (
     'Chipmunks are the smallest members of the squirrel family. Smallest species has 1.1 to 1.8 ounces of weight and reaches 7.2 to 8.5 inches in length. Largest species can reach 4.4 ounces of weight and 11 inches in length.',
     'Chipmunks have fluffy tail that can reach 3 to 5 inches in length.',
